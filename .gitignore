@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+forSHA256/
+FrontEndForNote/
+node_modules/
+Project1/
+rps/
+package.json
+package-lock.json
