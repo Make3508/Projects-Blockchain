@@ -128,6 +128,7 @@ async function game(userChoice) {
 
   let result2 = await contract.playGame(Number(userChoice), {
     value: amountInWei,
+    gasLimit: 100000,
   });
   const res2 = await result2.wait();
   // console.log(res2);

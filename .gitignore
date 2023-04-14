@@ -5,5 +5,8 @@ FrontEndForNote/
 node_modules/
 Project1/
 rps/
-package.json
-package-lock.json
+Docs/
+hardhat-tutorial1/
+hardhat-tutorial2/
+
+
